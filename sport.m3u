@@ -1,8 +1,6 @@
 #EXTM3U
 
-
 ###UK SKY SPORT ####
-
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ab/Sky_Sports_Racing_logo_2020.svg/1024px-Sky_Sports_Racing_logo_2020.svg.png" group-title="UK SKY SPORT",Sky Sport Racing HD
 http://supersonictv.live:8080/Allen123/Allen123/78145
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Sky_Sport_Action.svg/1024px-Sky_Sport_Action.svg.png" group-title="UK SKY SPORT",Sky Sports Action
@@ -28,8 +26,6 @@ http://supersonictv.live:8080/Allen123/Allen123/78155
 
 
 ###DAZN###
-
-
 #EXTINF:-1,tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1o4eamzb4env61ddc8wv4ra06l_image-header_pRow_1720521601000&quality=70" group-title="PT ELEVEN SPORT",ELEVEN SPORTS 1 HD
 http://supersonictv.live:8080/Allen123/Allen123/7627
 #EXTINF:-1,tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=6vqvum5g288n1lgqwvq6vlim1_image-header_pRow_1720521637000&quality=70" group-title="PT ELEVEN SPORT",ELEVEN SPORTS 2 HD
@@ -53,8 +49,6 @@ http://supersonictv.live:8080/Allen123/Allen123/7634
 
 
 ###SPORT TV###
-
-
 #EXTINF:-1,tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/vy9kl11700902598.png" group-title="SPORT TV",SPORT TV 1 HD
 http://supersonictv.live:8080/Allen123/Allen123/7705
 #EXTINF:-1,tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/oiu2yn1700902611.png" group-title="SPORT TV",SPORT TV 2 HD
@@ -79,11 +73,7 @@ http://supersonictv.live:8080/Allen123/Allen123/7713
 http://supersonictv.live:8080/Allen123/Allen123/7712
 
 
-
-
 ###SUPERSPORT TV###
-
-
 #EXTINF:-1,[AF] S LaLiga FHD tvg-logo="https://devcdn.24.co.za/files/supersport/204.png" group-title="SUPERSPORTS",S LaLiga
 http://supersonictv.live:8080/Allen123/Allen123/86861
 #EXTINF:-1,[AF] S Premier League FHD tvg-logo="https://devcdn.24.co.za/files/supersport/203.png" group-title="SUPERSPORTS",S Premier League FHD
@@ -126,10 +116,6 @@ http://supersonictv.live:8080/Allen123/Allen123/86880
 http://supersonictv.live:8080/Allen123/Allen123/86881
 #EXTINF:-1,[AF] S Premier League backup 03 tvg-logo="https://devcdn.24.co.za/files/supersport/default.png" group-title="SUPERSPORTS",S Premier League Backup 3
 http://supersonictv.live:8080/Allen123/Allen123/86882
-
-
-
-###ARENA SPORT###
 
 
 
