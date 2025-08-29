@@ -21,7 +21,7 @@ http://supersonictv.live:8080/Allen123/Allen123/78151
 http://supersonictv.live:8080/Allen123/Allen123/78153
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Sky_Sport_News_Logo_2020.png" group-title="UK SKY SPORT",Sky Sports News HD
 http://supersonictv.live:8080/Allen123/Allen123/78154
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Sky_Sports_UK_logo_2020.png/960px-Sky_Sports_UK_logo_2020.png" group-title="UK SKY SPORT",Sky Premier League
+#EXTINF:-1,tvg-logo="https://cdn.skymedia.co.uk/wp-content/uploads/2020/09/Sky-Sports-PL-2020-logo-250.png" group-title="UK SKY SPORT",Sky Premier League
 http://supersonictv.live:8080/Allen123/Allen123/78155
 
 
@@ -116,6 +116,7 @@ http://supersonictv.live:8080/Allen123/Allen123/86880
 http://supersonictv.live:8080/Allen123/Allen123/86881
 #EXTINF:-1,[AF] S Premier League backup 03 tvg-logo="https://devcdn.24.co.za/files/supersport/default.png" group-title="SUPERSPORTS",S Premier League Backup 3
 http://supersonictv.live:8080/Allen123/Allen123/86882
+
 
 
 
