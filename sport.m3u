@@ -106,16 +106,17 @@ http://supersonictv.live:8080/Allen123/Allen123/86879
 http://supersonictv.live:8080/Allen123/Allen123/86876
 #EXTINF:-1,[AF] S Play FHD tvg-logo="https://devcdn.24.co.za/files/supersport/242.png" group-title="SUPERSPORTS",S Play FHD
 http://supersonictv.live:8080/Allen123/Allen123/86877
-#EXTINF:-1,[AF] S Golf FHD tvg-logo="https://devcdn.24.co.za/files/supersport/default.png" group-title="SUPERSPORTS",S Golf FHD
+#EXTINF:-1,[AF] S Golf FHD tvg-logo="https://raw.githubusercontent.com/Plutzh/Logo/refs/heads/skysp/supersport.png" group-title="SUPERSPORTS",S Golf FHD
 http://supersonictv.live:8080/Allen123/Allen123/86875
-#EXTINF:-1,[AF] S WWE FHD tvg-logo="https://devcdn.24.co.za/files/supersport/default.png" group-title="SUPERSPORTS",S WWE FHD
+#EXTINF:-1,[AF] S WWE FHD tvg-logo="https://raw.githubusercontent.com/Plutzh/Logo/refs/heads/skysp/supersport.png" group-title="SUPERSPORTS",S WWE FHD
 http://supersonictv.live:8080/Allen123/Allen123/86878
-#EXTINF:-1,[AF] S Premier League backup tvg-logo="https://devcdn.24.co.za/files/supersport/default.png" group-title="SUPERSPORTS",S Premier League Backup
+#EXTINF:-1,[AF] S Premier League backup tvg-logo="https://raw.githubusercontent.com/Plutzh/Logo/refs/heads/skysp/supersport.png" group-title="SUPERSPORTS",S Premier League Backup
 http://supersonictv.live:8080/Allen123/Allen123/86880
-#EXTINF:-1,[AF] S Premier League backup 02 tvg-logo="https://devcdn.24.co.za/files/supersport/default.png" group-title="SUPERSPORTS",S Premier League Backup 2
+#EXTINF:-1,[AF] S Premier League backup 02 tvg-logo="https://raw.githubusercontent.com/Plutzh/Logo/refs/heads/skysp/supersport.png" group-title="SUPERSPORTS",S Premier League Backup 2
 http://supersonictv.live:8080/Allen123/Allen123/86881
-#EXTINF:-1,[AF] S Premier League backup 03 tvg-logo="https://devcdn.24.co.za/files/supersport/default.png" group-title="SUPERSPORTS",S Premier League Backup 3
+#EXTINF:-1,[AF] S Premier League backup 03 tvg-logo="https://raw.githubusercontent.com/Plutzh/Logo/refs/heads/skysp/supersport.png" group-title="SUPERSPORTS",S Premier League Backup 3
 http://supersonictv.live:8080/Allen123/Allen123/86882
+
 
 
 
