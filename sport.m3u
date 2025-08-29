@@ -1,27 +1,27 @@
 #EXTM3U
 
 ###UK SKY SPORT ####
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ab/Sky_Sports_Racing_logo_2020.svg/1024px-Sky_Sports_Racing_logo_2020.svg.png" group-title="UK SKY SPORT",Sky Sport Racing HD
+#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/Plutzh/Logo/refs/heads/skysp/Racing.png" group-title="UK SKY SPORT",Sky Sport Racing HD
 http://supersonictv.live:8080/Allen123/Allen123/78145
-#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/Plutzh/Logo/refs/heads/skysp/Action.png" group-title="UK SKY SPORT",Sky Sports Action
+#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/Plutzh/Logo/refs/heads/skysp/Action.png" group-title="UK SKY SPORT",Sky Sports Action HD
 http://supersonictv.live:8080/Allen123/Allen123/78146
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sky_Sport_Arena_-_Logo_2020.svg/1024px-Sky_Sport_Arena_-_Logo_2020.svg.png" group-title="UK SKY SPORT",UK Sky Sports Arena HD
+#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/Plutzh/Logo/refs/heads/skysp/Arena.png" group-title="UK SKY SPORT",UK Sky Sports Arena HD
 http://supersonictv.live:8080/Allen123/Allen123/78147
-#EXTINF:-1,tvg-logo="https://media.info/l/o/1/1134.1507600280.png" group-title="UK SKY SPORT",UK Sky Sports Cricket
+#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/Plutzh/Logo/refs/heads/skysp/Cricket.png" group-title="UK SKY SPORT",UK Sky Sports Cricket HD
 http://supersonictv.live:8080/Allen123/Allen123/78148
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Sport_Football_-_Logo_2020.svg/1024px-Sky_Sport_Football_-_Logo_2020.svg.png" group-title="UK SKY SPORT",Sky Sports Football HD
+#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/Plutzh/Logo/refs/heads/skysp/Football.png" group-title="UK SKY SPORT",Sky Sports Football HD
 http://supersonictv.live:8080/Allen123/Allen123/78150
-#EXTINF:-1,tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/a/a1/Sky_Sports_Main_Event_%282020%29.png/revision/latest/scale-to-width-down/1280?cb=20220227231333" group-title="UK SKY SPORT",Sky Main Events HD
+#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/Plutzh/Logo/refs/heads/skysp/Main Event.png" group-title="UK SKY SPORT",Sky Main Events HD
 http://supersonictv.live:8080/Allen123/Allen123/78152
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Sky_Sports_F1_logo_2020.svg/640px-Sky_Sports_F1_logo_2020.svg.png" group-title="UK SKY SPORT",Sky Sports F1
+#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/Plutzh/Logo/refs/heads/skysp/F1.png" group-title="UK SKY SPORT",Sky Sports F1 HD
 http://supersonictv.live:8080/Allen123/Allen123/78149
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sky_Sport_Golf_-_Logo_2018.svg/1024px-Sky_Sport_Golf_-_Logo_2018.svg.png" group-title="UK SKY SPORT",UK Sky Sports Golf HD
+#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/Plutzh/Logo/refs/heads/skysp/Golf.png" group-title="UK SKY SPORT",UK Sky Sports Golf HD
 http://supersonictv.live:8080/Allen123/Allen123/78151
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sky_Sport_Mix_Logo_2022.svg/1024px-Sky_Sport_Mix_Logo_2022.svg.png" group-title="UK SKY SPORT",Sky Sports MIX
+#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/Plutzh/Logo/refs/heads/skysp/Mix.png" group-title="UK SKY SPORT",Sky Sports MIX HD
 http://supersonictv.live:8080/Allen123/Allen123/78153
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Sky_Sport_News_Logo_2020.png" group-title="UK SKY SPORT",Sky Sports News HD
+#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/Plutzh/Logo/refs/heads/skysp/News.png" group-title="UK SKY SPORT",Sky Sports News HD
 http://supersonictv.live:8080/Allen123/Allen123/78154
-#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/Plutzh/Logo/refs/heads/skysp/Premiere League.png" group-title="UK SKY SPORT",Sky Premier League
+#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/Plutzh/Logo/refs/heads/skysp/Premiere League.png" group-title="UK SKY SPORT",Sky Premier League HD
 http://supersonictv.live:8080/Allen123/Allen123/78155
 
 
@@ -116,6 +116,7 @@ http://supersonictv.live:8080/Allen123/Allen123/86880
 http://supersonictv.live:8080/Allen123/Allen123/86881
 #EXTINF:-1,[AF] S Premier League backup 03 tvg-logo="https://devcdn.24.co.za/files/supersport/default.png" group-title="SUPERSPORTS",S Premier League Backup 3
 http://supersonictv.live:8080/Allen123/Allen123/86882
+
 
 
 
