@@ -3,7 +3,7 @@
 ###UK SKY SPORT ####
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ab/Sky_Sports_Racing_logo_2020.svg/1024px-Sky_Sports_Racing_logo_2020.svg.png" group-title="UK SKY SPORT",Sky Sport Racing HD
 http://supersonictv.live:8080/Allen123/Allen123/78145
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Sky_Sport_Action.svg/1024px-Sky_Sport_Action.svg.png" group-title="UK SKY SPORT",Sky Sports Action
+#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/Plutzh/Logo/refs/heads/skysp/Action.png" group-title="UK SKY SPORT",Sky Sports Action
 http://supersonictv.live:8080/Allen123/Allen123/78146
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sky_Sport_Arena_-_Logo_2020.svg/1024px-Sky_Sport_Arena_-_Logo_2020.svg.png" group-title="UK SKY SPORT",UK Sky Sports Arena HD
 http://supersonictv.live:8080/Allen123/Allen123/78147
@@ -21,7 +21,7 @@ http://supersonictv.live:8080/Allen123/Allen123/78151
 http://supersonictv.live:8080/Allen123/Allen123/78153
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Sky_Sport_News_Logo_2020.png" group-title="UK SKY SPORT",Sky Sports News HD
 http://supersonictv.live:8080/Allen123/Allen123/78154
-#EXTINF:-1,tvg-logo="https://cdn.skymedia.co.uk/wp-content/uploads/2020/09/Sky-Sports-PL-2020-logo-250.png" group-title="UK SKY SPORT",Sky Premier League
+#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/Plutzh/Logo/refs/heads/skysp/Premiere League.png" group-title="UK SKY SPORT",Sky Premier League
 http://supersonictv.live:8080/Allen123/Allen123/78155
 
 
@@ -116,6 +116,7 @@ http://supersonictv.live:8080/Allen123/Allen123/86880
 http://supersonictv.live:8080/Allen123/Allen123/86881
 #EXTINF:-1,[AF] S Premier League backup 03 tvg-logo="https://devcdn.24.co.za/files/supersport/default.png" group-title="SUPERSPORTS",S Premier League Backup 3
 http://supersonictv.live:8080/Allen123/Allen123/86882
+
 
 
 
