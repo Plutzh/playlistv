@@ -74,7 +74,7 @@ http://supersonictv.live:8080/Allen123/Allen123/7712
 
 
 ###SUPERSPORT TV###
-#EXTINF:-1,[AF] S LaLiga FHD tvg-logo="https://devcdn.24.co.za/files/supersport/204.png" group-title="SUPERSPORTS",S LaLiga
+#EXTINF:-1,[AF] S LaLiga FHD tvg-logo="https://devcdn.24.co.za/files/supersport/204.png" group-title="SUPERSPORTS",S LaLiga FHD
 http://supersonictv.live:8080/Allen123/Allen123/86861
 #EXTINF:-1,[AF] S Premier League FHD tvg-logo="https://devcdn.24.co.za/files/supersport/203.png" group-title="SUPERSPORTS",S Premier League FHD
 http://supersonictv.live:8080/Allen123/Allen123/86863
@@ -116,6 +116,7 @@ http://supersonictv.live:8080/Allen123/Allen123/86880
 http://supersonictv.live:8080/Allen123/Allen123/86881
 #EXTINF:-1,[AF] S Premier League backup 03 tvg-logo="https://raw.githubusercontent.com/Plutzh/Logo/refs/heads/skysp/supersport.png" group-title="SUPERSPORTS",S Premier League Backup 3
 http://supersonictv.live:8080/Allen123/Allen123/86882
+
 
 
 
